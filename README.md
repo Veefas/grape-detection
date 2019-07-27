@@ -32,7 +32,7 @@ python objectTracking.py.py
 
 ### Limitations
 
-1. Green grapes are not detected in this implementation, multiple colour support could be added in the future./
+1. Green grapes are not detected in this implementation, multiple colour support could be added in the future.
 
 2. Under a purple/green background, a simple colour detection implementation is not sufficent.
 
