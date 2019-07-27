@@ -1,8 +1,9 @@
 ## EcoBot-Grape-Detection
 
-The computer vision used in our participation in SFU's sustainable waste-sorting robots competition
+The computer vision used in our participation in SFU's sustainable waste-sorting robots competition [2nd Place](http://www.sfu.ca/fas/news-and-outreach/years/2019/student-teams-battle-eco-bots-at-fas-competition.html)
+   
+Grapes are detected based on the colour, the circular shape and size of the contour. 
 
-http://www.sfu.ca/fas/news-and-outreach/years/2019/student-teams-battle-eco-bots-at-fas-competition.html
 
 ### Getting Started
 1. Clone the project 
