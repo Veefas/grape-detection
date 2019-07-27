@@ -30,10 +30,12 @@ python objectTracking.py.py
 ### Project Demo
 ![](https://media.giphy.com/media/WQCTg6mky4hwlubgjg/giphy.gif)
 
+### Limitations
+
+Green grapes are not detected in this implementation, multiple colour support could be added in the future. 
+Under a purple/green background, a simple colour detection implementation is not sufficent.
+
 ### Author
 
 * **Tony Shen** - *Initial work* 
 
-### License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
